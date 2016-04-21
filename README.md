@@ -15,7 +15,7 @@ Note: y^$ (3<= $ <= 5) means concatenate y $ times where $ is a random value bet
 
 ### Level 0:
 
-alphabetic characters a-z
+alphabetical characters a-z
 
 ### Level 1:
 
